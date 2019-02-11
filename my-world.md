@@ -2,7 +2,15 @@
 THIS IS A DRAFT
 !!!!!!!!!!!!!!!
 
-# My world
+# Layout Key
+
+|------------------|
+| UP STAGE         |
+|                  |
+| DOWN STAGE       |
+|------------------|
+     AUDIENCE
+
 
 ## Characters
 
@@ -40,10 +48,10 @@ M: Lovely! You can count on my support.
 R: Awesome! Take care Mike!
 
 --Mike promptly leaves the stage. One designer in a hawaiian shirt runs up to Richard.
-D: Hey Richard, great to see you this morning. You asked me about the results of our AB testing.
+D: Hey Richard, great to see you this morning. You asked me about the results of our focus groups.
 R: Yep.
 D: It looks like Jeff was right - bright colors and excessive animations do drive engagement. V2, which includes an overhaul of the interaction screen, is set to roll out next week.
-R: Good news - push it prod asap! I promised Mike a growth in screen time, please make sure this delivers.
+R: Good news - ship it asap! I promised Mike a growth in screen time, please make sure this delivers.
 D: I'll follow up over slack.
 
 --Mike is about to leave, but an engineer exec catches him by the arm.
@@ -53,12 +61,12 @@ M: Honestly, why not? What could possibly go wrong?
 
 ## Scene 2
 
---Dramatic scene change: the cheery muzak stops, lights go out, and all startup members stop moving, all at once. Instead, an eerie and very ambient tune starts playing, and the spotlight falls on Stephan in the SCHOOL part of the stage.
+--Dramatic scene change: the cheery muzak stops, lights go out, and all startup members stop moving, all at once. Instead, an eerie and very ambient tune starts playing, and the spotlight falls on Stephan in the SCHOOL part of the stage. He's carrying some luggage and generally looks pretty disoriented.
 --Students are arranged in an ellipse, sit on various blocks and other furniture, and stare into phones. The phones cast a ghostly light onto their faces.
 
 --Stephan cautiously walks to the center, clearly uncomfortable and a little scared.
 
-S: Hi... I'm new here...But I'm really excited to meet all of you! Can someone, like, show me around or something?
+S: Hi... I'm new here...But I'm really excited to meet all of you! I... *notices phone*
 
 --Nobody reacts. Instead, a phone is lowered from the catwalk, screen on.
 --Stunned and a little scared, he looks into it. Instantly, a loud stream of noise erupts from the speakers. This noise is a combination of "social media sounds" (a like, a tweet, etc), and pleasant sounds from commercials (a pepsi can opening, a party, etc).
@@ -78,7 +86,7 @@ S: Hi... I'm new here...But I'm really excited to meet all of you! Can someone, 
 --Curtain closes. Mike comes out one end. Richard quickly emerges from in-between the curtains, clearly hurried and agitated. Upon seeing Mike, he fakes a smile.
 
 R: Hey Mike, I got your email - I don't think you should worry.
-M: And I got your data - engagement is clearly going down because of this thing. I don't know if you've planned for this scenario, but you have to do something about this game.
+M: And I got the data you sent me - engagement is clearly going down because of this thing. I don't know if you've planned for this scenario, but you have to do something about this game.
 R: We can always just up the gamification level in our app - maybe like add a number to relationships or something. That would keep engagement high.
 M: It better.
 
@@ -106,7 +114,7 @@ M: Welcome to Mountain, kid. This place is brutal, but you come out with a work 
 --Stephan looks disoriented at first, then he pulls out his phone and opens facetime (his screen is projected onto the stage). Mary quickly answers while in a well-lit room off-stage, probably the green room.
 
 M: Hey, what's up?
-S: The L-train ceiling. Are you doing anything tonight?
+S: The ceiling. Are you doing anything tonight?
 --Mary looks genuinely disappointed.
 M: Yeah, actually. I have to finish my APUSH reading and god knows what else - sorry! We should definitely hang out another time.
 S: Yeah sure, let me know if you need help.
@@ -146,16 +154,16 @@ M: Oh my god, is that a whole essay? Wha...? This classroom update...!
 
 
 ### Scene 8
-|-------------------|
-|  ■  --BOARD--     |
-|  ■ ■ ■ ■ ■ ■ ■    |
-|  ■ ■ ■ ■ ■ ■ ■    |
-|  ■ ■ ■ ■ ■ ■ ■    | - scene 8 and then scene 9
-|                   |
-|    JUGS/BASIN     |
-|------CURTAIN------|
-|                   | - scene 9
-|-------------------|
+|------------------|
+|  ■  --BOARD--    |
+|  ■ ■ ■ ■ ■ ■ ■   |
+|  ■ ■ ■ ■ ■ ■ ■   |
+|  ■ ■ ■ ■ ■ ■ ■   | - scene 8 and then scene 9
+|                  |
+|    JUGS/BASIN    |
+|------CURTAIN-----|
+|                  | - scene 9
+|------------------|
      AUDIENCE
 
 --After the wall and furniture are moved off, the lights flash on and very repetitive, beat-focused music starts playing. Students start moving desks onto the stage in rhythm with the beats, giving the whole scene a very robot-like feel.
@@ -187,12 +195,23 @@ M: Just kidding!
 M: Ugh, we've been walking for such a long time! Where is this place you wanted to show me?
 S: Wow, so you have enough patience to take a standardized test, but not enough to walk 10 minutes? It's just around the corner.
 --When they reach the center, they "turn around the corner" and the curtains open up to reveal a dark "sky" with little stars hanging up from the catwalk.
-S: That, my dear Mary, is the milky way. Hard to believe it, huh?
+S: That, Mary, is the milky way. Hard to believe it, huh?
 --Mary is speechless. Sad music begins to play.
 --Example of music: https://youtu.be/PYa7XmutCIU or maybe Beach House or some Miyazaki soundtrack
 S: Life nowadays is like a never-ending roller-coaster. It's so easy to get caught up in everything.....but I feel like sometimes it's worth just taking a step back.
---Mary hugs Stephan, and they stare at the sky as the stars gently move. The curtains close as the song ends.
+--Mary hugs Stephan, and they stare at the sky as the stars gently move.
+--At the same time, a spotlight shines on Mark, sleeping beneath a table on the other side of the stage. One of the designers comes on and notices him.
+D: Mark! MARK!
+--Mark mutters something about profit margins and user engagement. The designer proceeds to kick him.
+M: Hey! What...
+D: Go home, man. It's 3AM.
+--Mark slowly gets up from beneath the table, and cautiously walks outside. Suddenly, he too notices the milky way, and stops, enchanted.
+
+--The curtains close as the song ends.
 
 
 ### The end!
 --The music changes to something more festive, and the curtains open up onto a bright-lit scene. Everyone comes on stage and bows, yada yada.
+
+
+
