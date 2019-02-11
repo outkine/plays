@@ -28,19 +28,19 @@ School
 |------------------|
      AUDIENCE
 
---Play opens in a modern, chic, and busy silicon valley-type office. All around are people typing away at their laptops and having friendly conversation. Happy, "productivity-enhancing" muzak plays.
+--Play opens in a modern, chic, and busy silicon valley-type office. All around people are typing away at their laptops and having friendly conversations. Happy, "productivity-enhancing" muzak plays.
 
---CEO (Richard) enters with a macbook under one arm and a phone in the other. He shakes hands with an important-looking fellow, who is an influential investor.
-R: Hi Mike! Great to see you here this fine morning. How are you?
+--CEO (Richard) enters with a macbook under one arm. He shakes hands with an important-looking fellow, who is an influential investor.
+R: Hi Mike! Great to see you here. How are you?
 M: Very well indeed.
-R: Great to hear! Let's cut to the chase here - Click Co is doing better than ever. Over the last trimester Click Co has grown 300% - our user base is up to a record high of 3 Million, and our profits have followed suit. 2019 is shaping up to be the most profitable fiscal year on record! All we need to grow even more is your support.
+R: Great to hear! Let's cut to the chase here - Click Co is doing better than ever. Over the last trimester we have grown 300% - our user base is up to a record high of 3 Million, and our profits have followed suit. 2019 is shaping up to be the most profitable fiscal year on record! All we need to grow even more is your support.
 M: For sure Richard, I've always believed in your company. How are the user base demographics looking?
 R: Fairly consistent - our decision to narrow our focus on the young adult market has proven to be a great gamble, and is the primary driver for our engagement. Advertisers love it!
 M: Lovely! You can count on my support.
 R: Awesome! Take care Mike!
 
 --Mike promptly leaves the stage. One designer in a hawaiian shirt runs up to Richard.
-D: Hey Richard, great to see you this morning. You about the results of our design AB testing.
+D: Hey Richard, great to see you this morning. You asked me about the results of our AB testing.
 R: Yep.
 D: It looks like Jeff was right - bright colors and excessive animations do drive engagement. V2, which includes an overhaul of the interaction screen, is set to roll out next week.
 R: Good news - push it prod asap! I promised Mike a growth in screen time, please make sure this delivers.
@@ -54,7 +54,7 @@ M: Honestly, why not? What could possibly go wrong?
 ## Scene 2
 
 --Dramatic scene change: the cheery muzak stops, lights go out, and all startup members stop moving, all at once. Instead, an eerie and very ambient tune starts playing, and the spotlight falls on Stephan in the SCHOOL part of the stage.
---In he SCHOOL students, arranged in an ellipse, sit on various blocks and other furniture and stare into phones. The phones cast a ghostly light onto their faces.
+--Students are arranged in an ellipse, sit on various blocks and other furniture, and stare into phones. The phones cast a ghostly light onto their faces.
 
 --Stephan cautiously walks to the center, clearly uncomfortable and a little scared.
 
@@ -62,7 +62,7 @@ S: Hi... I'm new here...But I'm really excited to meet all of you! Can someone, 
 
 --Nobody reacts. Instead, a phone is lowered from the catwalk, screen on.
 --Stunned and a little scared, he looks into it. Instantly, a loud stream of noise erupts from the speakers. This noise is a combination of "social media sounds" (a like, a tweet, etc), and pleasant sounds from commercials (a pepsi can opening, a party, etc).
---Scared even more, he quickly puts the phone down, looks around, and cautiously picks it back up. The noise erupts once more. He shudders, and exits.*
+--He flinches and quickly puts the phone down, looks around, and cautiously picks it back up. The noise erupts once more. He shudders, and exits.
 
 
 ## Scene 3
@@ -168,12 +168,13 @@ T: No. Let's get started - I'll keep the time on the board.
 
 --Feel of scene: https://youtu.be/EdwSmmXU6JM?t=57
 --The teacher starts writing nonsensical words on the board, and everyone starts scribbling in a very systematic, robot-like way. The scribbling cycle follows the eerie music: everyone spends the same amount of time looking in their packet, writing in their packet, and then writing on their scantron.
---Suddenly, someone needs to blow their nose. Unfortunately, the desks are arranged in such a tight way that they inadvertently end up messing up the whole system and making a huge amount of noise while getting up. No-one reacts to this. This students grabs one little tissue, and then makes their way back to their desk, and blows their nose. Then the scene reverts to what it was before.
+--Two stage crew members start pouring the liquid out of the jugs into a basin. When Mary's jug empties, she falls asleep. This action is very noticeable because of the predictable way that everyone else is moving.
+--Suddenly, someone needs to blow their nose. Unfortunately, the desks are arranged in such a tight way that they inadvertently end up messing up the whole system and making a huge amount of noise while getting up. No-one reacts to this. This students grabs one little tissue, makes their way back to their desk, and blows their nose. Then the scene reverts to what it was before.
 
---During this entire time, the teacher writes times and erases them: 60 minutes, 45 minutes, 30 minutes. As the time nears 0 the music grows more and more intense. At a certain point one of the students grabs their hand, shrieks, and runs off stage. Finally, when the time reaches 0, the eerie music is replaced by something cheerful. Everyone gets up, pushes all the desks around, deposit their sheets, and leave the stage. Only Mary and Stephan remain.
+--During this entire time, the teacher writes times and erases them: 60 minutes, 45 minutes, 30 minutes. As the time nears 0 the music grows more and more intense. At a certain point one of the students grabs their head, shrieks, and runs off stage. Finally, when the time reaches 0, the eerie music is replaced by something cheerful. Everyone gets up, pushes all the desks around, deposits their sheets, and leaves the stage. Only Mary and Stephan remain.
 
 M: That was fun. I love school!
-S: Yeah, I struggled especially
+S: Yeah, I struggled especially hard with the Zimunitious.
 M: Sorry, but discussing the test would be considered cheating.
 --Stephan looks dumbfounded
 M: Just kidding!
@@ -184,7 +185,7 @@ M: Just kidding!
 --Mary and Stephan enter from one side, holding hands, and slowly make their way towards the center.
 
 M: Ugh, we've been walking for such a long time! Where is this place you wanted to show me?
-S: Wow, so you have enough patience to take a standardized test but not to walk 10 minutes? It's just around the corner.
+S: Wow, so you have enough patience to take a standardized test, but not enough to walk 10 minutes? It's just around the corner.
 --When they reach the center, they "turn around the corner" and the curtains open up to reveal a dark "sky" with little stars hanging up from the catwalk.
 S: That, my dear Mary, is the milky way. Hard to believe it, huh?
 --Mary is speechless. Sad music begins to play.
